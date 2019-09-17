@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="album_list">Album List</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="rename">Rename</string>
+    <string name="cancel">Cancel</string>
+    <string name="oldname">Old Album Name</string>
+    <string name="newname">New Album Name</string>
+    <string name="photos">Photos</string>
+    <string name="title_activity_photo_view">photoViewActivity</string>
+
+
+</resources>
